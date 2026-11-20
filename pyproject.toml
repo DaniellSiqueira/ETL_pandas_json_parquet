@@ -1,6 +1,6 @@
 [project]
 name = "etl-pandas-json-parquet"
-version = "3.11.5"
+version = "0.1.0"
 description = ""
 authors = [
     {name = "Daniel_Siqueira",email = "danielsiqueira640@gmail.com"}
